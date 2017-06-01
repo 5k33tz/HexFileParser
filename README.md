@@ -4,7 +4,7 @@ I created this project for a class while finishing my undergrad in 2015. To date
 
 
 
-This project is in no way compiled and ready to run on its own. You will need to use an IDE, such as Eclipse, and you there are dependancies on apache POI and ANT, which will need to be installed locally. There are many tutorials online on how to install both these products.
+This project is in no way compiled and ready to run on its own. You will need to use an IDE, such as Eclipse, as there are dependancies on apache POI and ANT, which will need to be installed locally. There are many tutorials online on how to install both these products.
 
 
 
