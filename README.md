@@ -8,4 +8,8 @@ This project is in no way compiled and ready to run on its own. You will need to
 
 
 
+If you feel obliged to donate, please do so to the following addresses :)
+BTC - 15nJd4mgFWEKVWvKrqogxFxAb4D5oybd1v
+ETH - 0x96590b442a2e10e932c17a182D53608f1a2c9f94
+
 Enjoy!
